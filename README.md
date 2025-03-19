@@ -14,7 +14,7 @@ También cuento con sólidos conocimientos en HTML y CSS.
 ---
 
 ## 🛠 Algunos proyectos interesantes:
-- 👉 [Zillow Z-Estimate-Project](https://github.com/Fj-martinez33/zillow-zestimate-project) — *(Modelo de Regresión por Votación (Ensemble))* 
+- 👉 [Zillow´s Home Value Predictor](https://github.com/Fj-martinez33/zillow-zestimate-project) — *(Modelo de Regresión por Votación (Ensemble))* 
 - 👉 [RSNA Breast Cancer Detector](https://github.com/Fj-martinez33/RSNA-Breast-Cancer-Detection) — *(Red Neuronal Convolucional para clasificacion de imagenes*)   
 
 ---
