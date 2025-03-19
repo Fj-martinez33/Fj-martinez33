@@ -20,7 +20,7 @@ También cuento con sólidos conocimientos en HTML y CSS.
 ---
 
 ## 📫 Conectemos
-- [LinkedIn](https://www.linkedin.com/in/francisco-j-martínez-martín/) *(prometo no enviarte spam... solo buen contenido y charlas geeks)*  
+- [LinkedIn](https://www.linkedin.com/in/francisco-j-martínez-martín/)
 
 ---
 
